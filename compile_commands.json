@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/fanta/workspace/ros2_ws/build/cpp_pubsub",
+  "command": "/usr/bin/c++  -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -isystem /opt/ros/foxy/include    -Wall -Wextra -Wpedantic -g -std=gnu++14 -o CMakeFiles/listener.dir/src/subscriber_member_function.cpp.o -c /home/fanta/workspace/ros2_ws/src/cpp_pubsub/src/subscriber_member_function.cpp",
+  "file": "/home/fanta/workspace/ros2_ws/src/cpp_pubsub/src/subscriber_member_function.cpp"
+},
+{
+  "directory": "/home/fanta/workspace/ros2_ws/build/cpp_pubsub",
+  "command": "/usr/bin/c++  -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -isystem /opt/ros/foxy/include    -Wall -Wextra -Wpedantic -g -std=gnu++14 -o CMakeFiles/talker.dir/src/publisher_member_function.cpp.o -c /home/fanta/workspace/ros2_ws/src/cpp_pubsub/src/publisher_member_function.cpp",
+  "file": "/home/fanta/workspace/ros2_ws/src/cpp_pubsub/src/publisher_member_function.cpp"
+}
+]

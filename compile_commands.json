@@ -8,5 +8,11 @@
   "directory": "/home/fanta/workspace/ros2_ws/build/cpp_pubsub",
   "command": "/usr/bin/c++  -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -isystem /opt/ros/foxy/include    -Wall -Wextra -Wpedantic -g -std=gnu++14 -o CMakeFiles/talker.dir/src/publisher_member_function.cpp.o -c /home/fanta/workspace/ros2_ws/src/cpp_pubsub/src/publisher_member_function.cpp",
   "file": "/home/fanta/workspace/ros2_ws/src/cpp_pubsub/src/publisher_member_function.cpp"
+},
+
+{
+  "directory": "/home/fanta/workspace/ros2_ws/build/my_components",
+  "command": "/usr/bin/c++  -DCOMPOSITION_BUILDING_DLL -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -Dmoverobot_component_EXPORTS -I/home/fanta/workspace/ros2_ws/src/my_components/include -isystem /opt/ros/foxy/include  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/moverobot_component.dir/src/moverobot_component.cpp.o -c /home/fanta/workspace/ros2_ws/src/my_components/src/moverobot_component.cpp",
+  "file": "/home/fanta/workspace/ros2_ws/src/my_components/src/moverobot_component.cpp"
 }
 ]
